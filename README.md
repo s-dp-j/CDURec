@@ -49,6 +49,3 @@ The experiments in the paper were implemented using:
 - Python
 - PyTorch
 - scikit-learn
-
-# CDURec-
-Cross-domain cross-user recommendation for inactive users
